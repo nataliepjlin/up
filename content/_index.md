@@ -24,22 +24,39 @@ brands_carousel:
   - "images/brands/05-colored.png"
 
 
-# features
-features:
+
+# features1
+features1:
   enable: true
-  subtitle: "Special Features"
+  # subtitle: "Special Features"
   title: "關於我們"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas"
+  description: "[<ins> 了解更多](./about)"
   features_blocks:
-  - icon: "las la-lock"
+  - icon: "las la-clock"
     title: "時間軸"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>[<ins> 了解更多](./about)"
-  - icon: "las la-magnet"
+    content: "成立於xxxx，..."
+  - icon: "la la-group"
     title: "組織架構"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-tachometer-alt"
+    content: "共xx名成員，包含xxxx部...<br>[<ins> 了解更多](./about)"
+  - icon: "las la-trophy"
     title: "得獎"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: "2022.04 -- xxxx獎 第一名...<br>[<ins> 了解更多](./about)"
+# features2
+features2:
+  enable: true
+  # subtitle: "Special Features"
+  title: "行動與教育"
+  description: "[<ins> 了解更多](./blog)"
+  features_blocks:
+  - icon: "las la-running"
+    title: "去塑行動"
+    content: "水果店，..."
+  - icon: "la la-envira"
+    title: "環境教育"
+    content: "講座...<br>[<ins> 了解更多](./about)"
+  - icon: "las la-share"
+    title: "知識分享"
+    content: "知識分享...<br>[<ins> 了解更多](./about)"
   # - icon: "las la-link"
   #   title: "Instant Link Sharing"
   #   content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
@@ -53,9 +70,9 @@ features:
 
 # intro_video
 intro_video:   
-  enable: true
+  enable: false
   subtitle: "Short Intro Video"
-  title: "Built exclusively for you"
+  title: "行動與教育"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
   video_thumbnail: "images/video-popup.jpg"
@@ -63,7 +80,7 @@ intro_video:
 
 # how_it_works
 how_it_works:   
-  enable: true
+  enable: false
   block:
   - subtitle: "Primary Speciality"
     title: "You Will Not miss Your All misunderstandings"
@@ -78,7 +95,7 @@ how_it_works:
 
 # testimonials
 testimonials:   
-  enable: true
+  enable: false
   subtitle: "Our Testimonials"
   title: "Don't take our word for it"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
