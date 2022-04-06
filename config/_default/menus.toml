@@ -1,0 +1,59 @@
+# main menu
+[[main]]
+name = "首頁"
+url = ""
+weight = 1
+
+[[main]]
+name = "關於我們"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "行動與教育"
+url = "blog/"
+weight = 3
+hasChildren = true
+
+  [[main]]
+  parent = "行動與教育"
+  name = "Blog Details"
+  url = "blog/post-1/"
+  weight = 1
+
+  [[main]]
+  parent = "行動與教育"
+  name = "Terms & Conditions"
+  url = "terms-and-conditions/"
+  weight = 7
+
+[[main]]
+weight = 4
+name = "知識分享"
+  
+[[main]]
+name = "聯絡我們"
+url = "contact/"
+weight = 5
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Blog"
+url = "blog/"
+weight = 2
+
+[[footer]]
+name = "Blog Details"
+url = "blog/post-1/"
+weight = 3
+
+[[footer]]
+name = "Terms & Conditions"
+url = "terms-and-conditions/"
+weight = 4
