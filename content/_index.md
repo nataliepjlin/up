@@ -51,7 +51,7 @@ features2:
   - icon: "las la-running"
     title: "去塑行動"
     content: "水果店，..."
-  - icon: "la la-envira"
+  - icon: "las la-graduation-cap"
     title: "環境教育"
     content: "講座...<br>[<ins> 了解更多](./about)"
   - icon: "las la-share"
