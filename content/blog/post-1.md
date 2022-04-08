@@ -6,6 +6,8 @@ image: "images/blog/01.jpg"
 #   name: "Abdullah Al Shifat"
 #   image: "images/author/abdullah.jpg"
 draft: false
+tags: [111]
+categories: [actions]
 ---
 
 Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget

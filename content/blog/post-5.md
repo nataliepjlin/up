@@ -6,7 +6,7 @@ image: "images/blog/05.jpg"
 #   name: "Derick Barker"
 #   image: "images/author/derick.jpg"
 draft: false
-categories: [halo,test]
+categories: 
 
 ---
 
