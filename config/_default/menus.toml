@@ -18,19 +18,19 @@ hasChildren = true
   [[main]]
   parent = "行動與教育"
   name = "去塑行動"
-  url = "./categories/actions"
+  url = "/categories/actions"
   weight = 1
 
   [[main]]
   parent = "行動與教育"
   name = "環境教育"
-  url = "./categories/events"
+  url = "/categories/events"
   weight = 7
 
 [[main]]
 weight = 4
 name = "知識分享"
-url = "./blog"
+url = "/categories/knowledgeShare"
   
 [[main]]
 name = "聯絡我們"
