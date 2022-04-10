@@ -54,12 +54,19 @@
           <h2 class="title">{{.title | markdownify}}</h2>
         </div>
       </div>
+      
 
       {{range .block}}
-      <div class="col-xl-5 col-lg-6">
-        <div class="text-center px-0 px-md-5 mt-4">
-          <h3 class="text-capitalize">{{.title | markdownify}}</h3>
-          <p>{{.content | markdownify}}</p>
+      <div class="col-xl-10 col-lg-12">
+        <div class="about-image">
+          <div class="block">
+            {{ if fileExists (add `assets/` .image) }}
+            {{$img:= resources.Get .image }}
+            {{$img:= $img.Resize "4645x"}}
+            <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Video Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+            {{end}}
+          </div>
+        </div>
         </div>
       </div>
       {{end}}

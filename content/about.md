@@ -16,20 +16,20 @@ who_we_are:
 # what_we_do
 what_we_do:
   enable: true
-  # subtitle: "Our Works"
+  subtitle: "Our Works"
   title: "行動時間軸"
+  description: "由xxxx名成員構成"
   block:
-  - title: "Building a new class"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  - image: "images/about/milestone_template.jpg"
 
-  - title: "Design for anyone"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  # - title: "Design for anyone"
+  #   content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
     
-  - title: "Creative flair design"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  # - title: "Creative flair design"
+  #   content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
     
-  - title: "Building products"
-    content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
+  # - title: "Building products"
+  #   content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"
 
 # our_mission
 our_mission:
@@ -62,24 +62,24 @@ our_office:
   enable: true
   # subtitle: "Our Offices"
   title: "組織架構"
-  description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
+  description: "由xxxx名成員構成"
   office_locations:
-  - city: "NewYork, USA"
+  - city: "公關部"
     country_flag: "images/about/flags/us.png"
-    address_line_one: "219 Bald Hill Drive"
-    address_line_two: "Oakland Gardens, NY 11364"
-  - city: "Australia, Perth"
+    address_line_one: "1111"
+    address_line_two: "11111"
+  - city: "部"
     country_flag: "images/about/flags/au.png"
-    address_line_one: "Flat 23 80 Anthony Circlet"
-    address_line_two: "Port Guiseppe, TAS 2691"
-  - city: "Berlin, Germany"
+    address_line_one: "1111"
+    address_line_two: "11111"
+  - city: "部"
     country_flag: "images/about/flags/germany.png"
-    address_line_one: "Jl Raya Dewi Sartika Ged"
-    address_line_two: "Harapan Masa, Br Germeny"
-  - city: "China, Wohan"
+    address_line_one: "1111"
+    address_line_two: "11111"
+  - city: "部"
     country_flag: "images/about/flags/china.png"
-    address_line_one: "1hao Wen Ti Huo Dong"
-    address_line_two: "Zhong Xin 1ceng Jian Xing"
+    address_line_one: "1111"
+    address_line_two: "11111"
 
 
 # our team
@@ -87,7 +87,7 @@ our_team:
   enable: true
   # subtitle: "Our members"
   title: "得獎紀錄"
-  description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
+  description: "我們得過的獎"
   team:
   - name: "獎項1"
     image: "images/about/team/01.jpg"
