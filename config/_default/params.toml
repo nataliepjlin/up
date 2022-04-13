@@ -35,9 +35,9 @@ reading_time = true
 
 # contact information
 [contact_info]
-address = "臺北市中正區重慶南路一段165 號"
+address = "臺北市中正區重慶南路一段165號"
 phone = ["02xxxxxx","09xxxxx"]
-email = ["info@xxxxx.io"]
+email = ["unplastifyyouth2020@gmail.com"]
 
 # imaging processing
 [imaging]
@@ -74,10 +74,10 @@ button_link = "https://gethugothemes.com/products/andromeda/"
 [[social]]
 title = "@unplastifyyouth2020"
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
-link = "https://www.facebook.com/"
+link = "https://www.facebook.com/unplastifyyouth2020"
 
 [[social]]
 title = "@unplastifyyouth"
 icon = "lab la-instagram"  # https://icons8.com/line-awesome
-link = "https://www.instagram.com/"
+link = "https://www.instagram.com/unplastifyyouthw"
 

@@ -230,12 +230,12 @@
           {{range .office_locations}}
           <div class="col-lg-3 col-md-6 col-sm-6">
             <div class="office-loc-item">
-              {{ if fileExists (add `assets/` .country_flag) }}
+              <!-- {{ if fileExists (add `assets/` .country_flag) }}
               {{$img:= resources.Get .country_flag }}
               {{$img:= $img.Resize "80x "}}
               {{$imgWebp:= $img.Resize "80x webp"}}
               <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="Flags" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
-              {{end}}
+              {{end}} -->
               <h3>{{.city | markdownify}}</h3>
               <p>{{.address_line_one | markdownify}}</p>
               <p>{{.address_line_two | markdownify}}</p>
