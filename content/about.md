@@ -20,7 +20,7 @@ what_we_do:
   title: "行動時間軸"
   # description: "由xxxx名成員構成"
   block:
-  - image: "images/about/milestone_template.jpg"
+  - image: "images/about/milestone.png"
 
   # - title: "Design for anyone"
   #   content: "Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems"

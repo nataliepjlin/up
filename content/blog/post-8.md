@@ -6,7 +6,7 @@ image: "images/blog/03.jpg"
 #   name: "Abdullah Al Shifat"
 #   image: "images/author/abdullah.jpg"
 draft: false
-categories: [events]
+categories: [去塑行動]
 
 ---
 

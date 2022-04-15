@@ -1,26 +1,29 @@
 ---
-date: "2021-07-12"
-title: "Three reasons you DON’T need an app on the App Store"
-image: "images/blog/03.jpg"
+date: "2022-03-02"
+title: "戰爭之後，土地怎麼了?"
+image: "images/blog/知識_0403_1.png"
 # author_info: 
 #   name: "Derick Barker"
 #   image: "images/author/derick.jpg"
 draft: false
-categories: [環境教育]
+tags: [環保,愛地球,減塑,vegan,素食,vegetarian,素食主義,純素,plantbased,知識分享]
+categories: [知識分享]
 ---
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget
+今年二月底開始的烏俄戰爭已造成極大的人道主義危機 — 至今約1.5萬人亡、300萬人流離失所，而戰爭所造成的環境代價又有多龐大呢？
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
+# 自然生態
+戰爭中的自然保護區往往是最脆弱的，不僅砲火和地雷皆會引起野火，烏克蘭東部被氣候變遷加劇的乾燥氣候更使大量森林燒毀，目前已有18座自然保護區、53萬公頃的土地遭受摧毀，生態系的平衡極為精微，因此復育將會是一大挑戰。
 
-Pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet Faucibus consectetur tempus adipiscing vitae. Nec blandit tincidunt nibh nisi, quam volutpat. In lacus laoreet diam risus. Mauris, risus faucibus sagittis sagittis tincidunt id justo. Diam massa pretium consequat mauris viverra. Sagittis eu libero
+# 核電廠
+烏克蘭現有四座運轉中的核電廠，結構脆弱，若遭到砲火襲擊，其放射性汙染不僅會大規模蔓延，更會遺害上千年。
 
->Facing a challenge in life is kind of a turn-on for an easy rider. When life gives you lemons, use them in your designs
->
-> <cite>!Alexender Smith</cite>
+# 重工業
+烏克蘭東部工廠遍布，如冶金廠、化工廠、發電廠和廢棄礦山。這些工廠多有重金屬及有毒廢棄物，若遭破壞或無法恰當回收廢棄物，有毒物質將嚴重汙染環境及危害居民健康。
 
-Consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent volutpat tortor. Ipsum eget sed tempus luctus nisl. Ut etiam molestie mattis at faucibus mi at pellentesque. Pellentesque morbi nunc, curabitur arcu euismod suscipit. Duis mi sapien, donec non dictum
+# 水利設施
+戰爭影響了烏克蘭的水利基礎設施，多處供水被切斷。管線遭砲擊也會使汙水處理劣化，導致未經處理的汙水直接排入河流，造成生態危機及健康風險。
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis cursus id.
-
-Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim. Faucibus non tristique eu.
+# 未爆彈
+未爆彈不僅可能無預警觸發、對生命構成直接威脅，亦會釋出有毒化學物質到周遭的土壤和地下水中。<br>
+事實上，戰爭中刻意破壞民用基礎設施是違法戰爭法的，但是令人遺憾的悲劇仍不斷上演。現階段我們能做的就是以行動支持和募款救助烏克蘭難民，一起為環境及和平努力！

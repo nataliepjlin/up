@@ -1,27 +1,34 @@
 ---
-date: "2021-07-14"
-title: "The Real Product From the Buyers improvements in Overflow basis."
+date: "2022-03-03"
+title: "漂綠 greenwashing"
 image: "images/blog/01.jpg"
 # author_info: 
 #   name: "Abdullah Al Shifat"
 #   image: "images/author/abdullah.jpg"
 draft: false
-tags: [111]
+tags: [環保,愛地球,減塑,漂綠,greenwashing,environment,ecofriendly,知識分享]
 categories: [知識分享]
 ---
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget
+# 漂綠是什麼?
+「漂綠」是指一家公司、政府或是組織以廣告等行為宣示自身對環境保護的付出，打造出低碳、永續等假象，然而卻不花經費實際保護環境。此詞第一次出現在1986，一位環保人士指出飯店企業於房間放置鼓勵房客重複使用毛巾的告示，但企業對於節省能源浪費等幾乎毫不在乎，然而重複使用毛巾可讓他們降低成本。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
+# 漂綠的常見手法
+隱藏的代價: 如只比較碳排放量而不將耗水量納入考量
+無證據: 提供難以或是無法被證實的說法
+模糊的敘述: 如「全天然」一詞，人人定義不同
+假認證標章: 如公司自己設立一個綠色標章以便於認證自身產品
+無關緊要的資訊: 以真實但是無關緊要的聲言誤導消費者
+兩害相權取其輕: 將自身產品與對環境更有害的產品比較，但忽略自身產品、產業亦有嚴重環境代價
+暗示性圖示: 在產品上貼花草、地球等圖樣
+僞科學敘述: 以一般民眾無法理解之專有詞彙蒙混過關
+謊言: 公然不實的宣稱。此為手法最為少見。
 
-Pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet Faucibus consectetur tempus adipiscing vitae. Nec blandit tincidunt nibh nisi, quam volutpat. In lacus laoreet diam risus. Mauris, risus faucibus sagittis sagittis tincidunt id justo. Diam massa pretium consequat mauris viverra. Sagittis eu libero
+# 綠色詐騙 greenscamming
+綠色詐騙是指組織或是產品取名讓人誤以為它環境友善。這類似於生物界中的「擬態」。一個例子為多個石化能源公司一同創立的「全球氣候聯盟」(Global Climate Coalition)，用於遊說政府不要訂定限制碳排放的法律，並攻擊全球暖化背後的科學根據。GCC一度位高權重，是美國沒有批准京都協議書的一大原因，不過其在2001年因不敵氣候科學的發展及社會輿論而解散。
 
->Facing a challenge in life is kind of a turn-on for an easy rider. When life gives you lemons, use them in your designs
->
-> <cite>!Alexender Smith</cite>
+# 漂綠對消費者的影響
+隨著漂綠的氾濫，消費者逐漸對企業的綠色形象、廣告麻木，因此真正環境友善的公司便需要更努力的傳播綠色形象才能脫穎而出。然而，有些時常用於綠色廣告形象的詞，如「溫和」，反倒會使消費者認為綠色產品比非綠色產品低效。
+隨著社會逐漸重視對環境友善，消費者也更常選擇看似環保的產品，促使部分企業採取還表措施，但亦使大量企業不惜成本動員公共關係(PR)部門以說服大眾其為「綠色企業」。下次看到一個標榜為環境友善的產品，不妨思考一下它是真的「綠」，還是只是被漂綠?
 
-Consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent volutpat tortor. Ipsum eget sed tempus luctus nisl. Ut etiam molestie mattis at faucibus mi at pellentesque. Pellentesque morbi nunc, curabitur arcu euismod suscipit. Duis mi sapien, donec non dictum
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis cursus id.
-
-Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim. Faucibus non tristique eu.
