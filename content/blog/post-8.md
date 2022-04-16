@@ -1,7 +1,7 @@
 ---
-date: "2021-07-07"
-title: "What to consider before starting a business – Inside The Studio"
-image: "images/blog/03.jpg"
+date: "2022-03-08"
+title: "不塑之渴新增店家"
+image: "images/blog/10.png"
 # author_info: 
 #   name: "Abdullah Al Shifat"
 #   image: "images/author/abdullah.jpg"
@@ -9,19 +9,34 @@ draft: false
 categories: [去塑行動]
 
 ---
+### ⏰活動期程
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget
+3/7(一)~5/15(日)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
+### 合作店家共十一家
+#### ｜foodpanda & Uber eats都可以｜
 
-Pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet Faucibus consectetur tempus adipiscing vitae. Nec blandit tincidunt nibh nisi, quam volutpat. In lacus laoreet diam risus. Mauris, risus faucibus sagittis sagittis tincidunt id justo. Diam massa pretium consequat mauris viverra. Sagittis eu libero
+🌟茶鬍 中正漢口店（新增店家）<br>
+📍白巷子 台北雙連店<br>
+📍萬波 台北衡陽店<br>
+📍舒油頭 西門店<br>
+📍鶴茶樓 台北寧波西店<br>
+📍龜記 台北西門店
+（也歡迎上官網訂購或加入官方Line帳號@418eaavz ）
 
->Facing a challenge in life is kind of a turn-on for an easy rider. When life gives you lemons, use them in your designs
->
-> <cite>!Alexender Smith</cite>
+#### ｜foodpanda｜
+🌟comebuy 台北衡陽店（新增店家）<br>
+📍清心福全 萬華成都店<br>
+📍魚池貳壹 西門店
 
-Consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent volutpat tortor. Ipsum eget sed tempus luctus nisl. Ut etiam molestie mattis at faucibus mi at pellentesque. Pellentesque morbi nunc, curabitur arcu euismod suscipit. Duis mi sapien, donec non dictum
+#### ｜Uber eats｜
+📍水巷茶弄 台北南陽店<br>
+📍老賴茶棧 台北西門店
 
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis cursus id.
+### 🛍訂購流程
 
-Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim. Faucibus non tristique eu.
+訂購外送時
+在品項備註欄寫上「北一女中不要塑膠袋」➡️裝著餐點的安普環保袋送達手中！
+➡️使用完畢後至大小熱還碗處掛鉤歸還
+
+近期將會推出環保袋志工招募相關消息，請持續關注聯盟最新動態~

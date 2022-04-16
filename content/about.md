@@ -6,7 +6,7 @@ draft: false
 # who_we_are
 who_we_are:
   enable: true
-  subtitle: "Who We Are"
+  # subtitle: "Who We Are"
   title: "我們是安普拉絲特φ UNPLASTIFY YOUTH"
   description: "我們是一群北一女中的學生<br>我們相信每一片土地和人同樣值得被友善對待"
 
