@@ -585,7 +585,7 @@ header {
         background-color: #b6e7bf; }
       header .dropdown-menu .dropdown-item.active {
         color: #349D48;
-        background-color: #ffffff; }
+        background-color: transparent; }
         header .dropdown-menu .dropdown-item.active:focus, header .dropdown-menu .dropdown-item.active:hover, header .dropdown-menu .dropdown-item.active:active {
           background-color: #b6e7bf; }
   @media (min-width: 991px) {
@@ -597,7 +597,7 @@ header {
       transform: translate(-50%, -6px);
       z-index: 1;
       border: 0;
-      background-color: #c2ebc9; }
+      background-color: transparent; }
       header .dropdown-menu::after {
         position: absolute;
         content: "";
