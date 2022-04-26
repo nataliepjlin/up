@@ -152,7 +152,7 @@ header {
       transform: translate(-50%, -6px);
       z-index: 1;
       border: 0;
-      background-color: transparent;
+      background-color: lighten($primary-color, 43);
       &::after {
         position: absolute;
         content: "";

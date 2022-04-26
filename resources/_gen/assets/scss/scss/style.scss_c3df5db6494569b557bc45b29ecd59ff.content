@@ -597,7 +597,7 @@ header {
       transform: translate(-50%, -6px);
       z-index: 1;
       border: 0;
-      background-color: transparent; }
+      background-color: #c2ebc9; }
       header .dropdown-menu::after {
         position: absolute;
         content: "";
