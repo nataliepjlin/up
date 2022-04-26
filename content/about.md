@@ -20,11 +20,11 @@ what_we_do:
   title: "行動時間軸"
   office_locations:
   - city: "知識分享貼文"
-    address_line_one: "<hr>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    address_line_one: "<hr>藉由清楚又精美的圖片和說明,分享環保與塑膠相關知識,涵蓋環保小撇步、國際環保議題等內容。"
   - city: "水果店內環保袋循環"
-    address_line_one: "<hr>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    address_line_one: "<hr>在水果店內常設公用環保袋,並透過宣傳等方式,鼓勵民眾自發性使用自備或店內的環保袋,以環保袋選購水果、循環使用,預期在三個月內減少135000個塑膠袋。"
   - city: "不塑之渴—外送環保袋循環"
-    address_line_one: "<hr>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    address_line_one: "<hr>每次訂完外送之後，滿手的塑膠袋是否讓你頭很大? 我們與十一家飲料店合作「北一女校內外送循環環保袋計畫」"
   # description: "由xxxx名成員構成"
 
   # - title: "Design for anyone"
