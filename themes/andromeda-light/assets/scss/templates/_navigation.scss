@@ -133,7 +133,7 @@ header {
       
       &.active {
         color: $primary-color;
-        background-color: transparent;
+        background-color: $white;
         &:focus,
         &:hover,
         &:active {

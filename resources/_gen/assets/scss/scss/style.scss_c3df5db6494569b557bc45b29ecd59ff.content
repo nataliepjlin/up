@@ -585,7 +585,7 @@ header {
         background-color: #b6e7bf; }
       header .dropdown-menu .dropdown-item.active {
         color: #349D48;
-        background-color: transparent; }
+        background-color: #ffffff; }
         header .dropdown-menu .dropdown-item.active:focus, header .dropdown-menu .dropdown-item.active:hover, header .dropdown-menu .dropdown-item.active:active {
           background-color: #b6e7bf; }
   @media (min-width: 991px) {
