@@ -9,9 +9,9 @@ draft: false
 categories: [環境教育]
 ---
 
-<audio controls>
+<!-- <audio controls>
   <source src="/audio/interview.mp3" type="audio/mpeg">
-</audio>
+</audio> -->
 
 
 謝謝「青年署」以及「國立教育廣播電台」邀請我們接受採訪，很高興能在「青年故事館」中分享我們的理念、行動以及組織故事，包括如何推動環保觀念，以及在實際執行時該如何在考量民眾的需求下，鼓勵民眾使用環保袋等等，以達成我們最後的目的—「減塑」。
