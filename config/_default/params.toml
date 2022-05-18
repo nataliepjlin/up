@@ -53,7 +53,7 @@ preloader = "images/loading.png" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "支持我們"
-link = "https://linktr.ee/UnplastifyYouth2020"
+link = "/fundraise"
 
 # cookies
 [cookies]
