@@ -35,8 +35,6 @@ reading_time = true
 
 # contact information
 [contact_info]
-address = "臺北市中正區重慶南路一段165號"
-phone = ["02xxxxxx","09xxxxx"]
 email = ["unplastifyyouth2020@gmail.com"]
 
 # imaging processing
@@ -80,4 +78,6 @@ link = "https://www.facebook.com/unplastifyyouth2020"
 title = "@unplastifyyouth"
 icon = "lab la-instagram"  # https://icons8.com/line-awesome
 link = "https://www.instagram.com/unplastifyyouth"
+
+
 
