@@ -1,8 +1,8 @@
 ---
 title: "公民行動"
-date: "2022-05-18"
+date: "2022-04-26"
 draft: false
-categories: [環境教育]
+categories: [去塑行動]
 image: "images/blog/公民行動_1.png"
 ---
 3月26日安普拉絲特φ參加「110年度公民行動方案競賽」，非常開心獲得「佳作！」

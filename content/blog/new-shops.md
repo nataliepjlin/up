@@ -2,9 +2,6 @@
 date: "2022-03-08"
 title: "不塑之渴新增店家"
 image: "images/blog/10.png"
-# author_info: 
-#   name: "Abdullah Al Shifat"
-#   image: "images/author/abdullah.jpg"
 draft: false
 categories: [去塑行動]
 
