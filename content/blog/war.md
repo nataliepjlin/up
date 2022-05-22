@@ -1,6 +1,6 @@
 ---
 date: "2022-04-03"
-title: "戰爭之後，土地怎麼了?"
+title: "知識分享《戰爭之後，土地怎麼了?》"
 image: "images/blog/知識_0403_1.png"
 # author_info: 
 #   name: "Derick Barker"

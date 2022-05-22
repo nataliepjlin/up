@@ -1,6 +1,6 @@
 ---
 date: "2022-03-02"
-title: "Vegan • 拯救地球?"
+title: "知識分享《Vegan • 拯救地球?》"
 image: "images/blog/知識_0302_1.png"
 # author_info: 
 #   name: "Derick Barker"
