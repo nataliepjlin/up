@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ipyouth.netlify.com"
+baseURL = "https://upyouth.netlify.app"
 canonifyURLs = "true"
 title = "UNPLASTIFY YOUTH"
 theme = "andromeda-light"
@@ -7,6 +7,7 @@ theme = "andromeda-light"
 paginate = "6"
 # post excerpt
 summaryLength = "10"
+ga_analytics = "G-DD4WHPH6FV"
 # google analytics
 googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
