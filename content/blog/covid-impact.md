@@ -2,7 +2,8 @@
 title: "知識分享《疫情對環境的影響》"
 date: 2022-05-22
 draft: false
-image: "covid-impact.png"
+image: "images/blog/covid-impact.png"
+categories: [知識分享]
 ---
 自從2019年底開始肆虐的COVID-19對於我們生活各方面的影響甚大，而對環境又有什麼影響呢？讓我們簡單介紹幾個正面與負面影響。
 
