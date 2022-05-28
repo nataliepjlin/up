@@ -2,11 +2,7 @@
 date: "2021-11-03"
 title: "減塑 關我什麼塑? — 一堂高中生的不塑之課"
 image: "images/blog/線上講座.png"
-# author_info: 
-#   name: "Abdullah Al Shifat"
-#   image: "images/author/abdullah.jpg"
 draft: false
-# tags: [環保,愛地球,減塑,漂綠,greenwashing,environment,ecofriendly,知識分享]
 categories: [環境教育]
 ---
 
@@ -30,3 +26,7 @@ Annie老師開頭便指出塑膠使用率年年攀升，而大家以為回收就
 綠色和平
 蔓時尚
 鄭文柏藥師
+
+我們是 Unplastify Youth 安普拉絲特φ 青少年去塑聯盟，一群致力於減塑的北一女學生
+Instagram 和 Facebook 上會定期有我們的活動紀錄與知識分享ᕕ(ᐛ)ᕗ
+歡迎分享、追蹤我們的帳號，和我們一起守護地球!!

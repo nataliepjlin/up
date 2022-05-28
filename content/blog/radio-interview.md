@@ -23,3 +23,7 @@ categories: [環境教育]
 ### 🎥馬上聆聽我們的訪談!🎥
 {{< youtube-lite nXPixxSx2Is >}}
 
+我們是 Unplastify Youth 安普拉絲特φ 青少年去塑聯盟，一群致力於減塑的北一女學生
+Instagram 和 Facebook 上會定期有我們的活動紀錄與知識分享ᕕ(ᐛ)ᕗ
+歡迎分享、追蹤我們的帳號，和我們一起守護地球!!
+
