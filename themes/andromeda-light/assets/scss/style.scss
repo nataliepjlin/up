@@ -7,15 +7,15 @@ $primary-color: {{.primary | default "#349D48"}};
 
 
 // Font Variables
-$h1: {{.h1 | default "48px"}};
-$h1-md: {{.h1_md | default "38px"}};
-$h2: {{.h2 | default "38px"}};
-$h2-md: {{.h2_md | default "30px"}};
-$h3: {{.h3 | default "22px"}};
+$h1: {{.h1 | default "40px"}};
+$h1-md: {{.h1_md | default "36px"}};
+$h2: {{.h2 | default "36px"}};
+$h2-md: {{.h2_md | default "32px"}};
+$h3: {{.h3 | default "24px"}};
 $h3-md: {{.h3_md | default "20px"}};
 $h4: {{.h4 | default "18px"}};
 $h5: {{.h5 | default "16px"}};
-$h6: {{.h6 | default "15px"}};
+$h6: {{.h6 | default "14px"}};
 
 // Font Variables
 $primary-font: '{{ replaceRE ":[ital,]*[ital@]*[wght@]*[0-9,;]+" "" .primary_font | default "Lato"}}', {{.primary_font_type | default "sans-serif"}};
