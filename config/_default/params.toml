@@ -6,10 +6,10 @@ logo = "images/logo.jpg"
 # use `x` with logo_width, example: "100x"
 logo_width = "240x"
 # logo text will only show when logo is missing.
-logo_text = "Andromeda"
+logo_text = "UNPLASTIFY YOUTH"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
-author = "Themefisher"
+author = "UNPLASTIFY YOUTH"
 image = "images/logo.png"                # this image will be used as fallback if a page has no image of its own
 
 # footer information
@@ -31,7 +31,7 @@ buy_premium_popup = false
 mainSections = ["blog"]
 
 # reading time for blog posts
-reading_time = true
+reading_time = false
 
 # contact information
 [contact_info]

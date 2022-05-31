@@ -59,7 +59,6 @@
         <div class="timeline">
           <ul>
             <li>
-              <!-- <span>3rd January 2020</span> -->
               <div class="content">
                 <h3>速戰塑絕志工</h3>
                 <p>
@@ -69,12 +68,13 @@
               </div>
             </li>
             <li>
-              <!-- <span>21st Jun 2019</span> -->
-              <div class="content">
-                <h3>減塑，關我什麼塑？ 一堂給高中生的不塑之課</h3>
-                <p>特別邀請三位有著豐富經歷的講者們，<br>來和台灣青年分享減塑問題，認識塑膠對我們的危害及預防的措施。
-                </p>
-              </div>
+              <a href="/blog/lecture">
+                <div class="content">
+                  <h3>減塑，關我什麼塑？ 一堂給高中生的不塑之課</h3>
+                  <p>特別邀請三位有著豐富經歷的講者們，<br>來和台灣青年分享減塑問題，認識塑膠對我們的危害及預防的措施。
+                  </p>
+                </div>
+              </a>
             </li>
             <li>
               <!-- <span>15th April 2018</span> -->
@@ -111,12 +111,25 @@
       <div class="col-xl-5 col-lg-6">
         <h3 class="title ">持續性活動</h3>
         <div class="col">
-          {{range .office_locations}}
+          <a href="/categories/知識分享/">
+            <div class="office-loc-item">
+              <h4>知識分享貼文</h4>
+              <hr>
+              <p>藉由清楚又精美的圖片和說明，分享環保與塑膠相關知識，涵蓋環保小撇步、國際環保議題等內容。</p>
+            </div>
+          </a>
           <div class="office-loc-item">
-            <h4>{{.city | markdownify}}</h4>
-            <p>{{.address_line_one | markdownify}}</p>
+            <h4>水果店內環保袋循環</h4>
+            <hr>
+            <p>在水果店內常設公用環保袋，並透過宣傳等方式，鼓勵民眾自發性使用自備或店內的環保袋，以環保袋選購水果、循環使用，預期在三個月內減少135000個塑膠袋。</p>
           </div>
-          {{end}}
+          <a href="/blog/new-shops/">
+            <div class="office-loc-item">
+              <h4>不塑之渴—外送環保袋循環</h4>
+              <hr>
+              <p>每次訂完外送之後，滿手的塑膠袋是否讓你頭很大? 我們與十一家飲料店合作「北一女校內外送循環環保袋計畫」</p>
+            </div>
+          </a>
         </div>
       </div>
     </div>
