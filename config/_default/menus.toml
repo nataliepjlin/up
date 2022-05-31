@@ -9,23 +9,16 @@ name = "關於我們"
 url = "about/"
 weight = 2
 
-
-  #[[main]]
-  #parent = "行動與教育"
-  #name = "去塑行動"
-  #url = "/categories/去塑行動"
-  #weight = 1
-
-  #[[main]]
-  #parent = "行動與教育"
-  #name = "環境教育"
-  #url = "/categories/環境教育"
-  #weight = 7
-
 [[main]]
 weight = 6
 name = "去塑行動"
 url = "/categories/去塑行動"
+
+  [[main]]
+  parent = "去塑行動"
+  name = "不塑之渴"
+  url = "/tags/不塑之渴"
+  weight = 1
 
 [[main]]
 weight = 6
