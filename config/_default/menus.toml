@@ -26,6 +26,12 @@ hasChildren = true
   url = "/categories/獲獎紀錄"
   weight = 2
 
+  [[main]]
+  parent = "去塑行動"
+  name = "其他去塑行動"
+  url = "/categories/其他去塑行動"
+  weight = 3
+
 [[main]]
 weight = 4
 name = "環境教育"
