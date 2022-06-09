@@ -16,7 +16,7 @@ who_we_are:
 # what_we_do
 what_we_do:
   enable: true
-  # subtitle: "Our Works"
+  subtitle: "點擊時間軸，閱讀詳細內容!"
   title: "行動時間軸"
 
 # our office
