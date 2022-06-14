@@ -3,8 +3,8 @@
 {{ $caption:= .Get "caption" }}
 {{ $position:= .Get "position" }}
 {{ $class:= .Get "class" }}
-{{ $height:= replace (replace (.Get "height") "%" "") "px" "" }}
-{{ $width:= replace (replace (.Get "width") "%" "") "px" "" }}
+{{ $height:= replace (replace (.Get "height") "px" "") "x" "" }}
+{{ $width:= replace (replace (.Get "width") "px" "") "x" "" }}
 {{ $alt:= .Get "alt" }}
 {{ $title:= .Get "title" }}
 {{ $command:= .Get "command" | humanize }}

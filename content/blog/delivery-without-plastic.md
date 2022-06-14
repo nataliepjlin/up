@@ -5,7 +5,7 @@ image: "images/blog/10.png"
 draft: false
 categories: [去塑行動]
 tags: [不塑之渴]
-
+# content_image: "images/blog/shop.jpeg"
 ---
 ### 不塑之渴是什麼?
 每次訂完外送之後，滿手的塑膠袋是否讓你頭很大?
@@ -40,7 +40,7 @@ tags: [不塑之渴]
 📍水巷茶弄 台北南陽店<br>
 📍老賴茶棧 台北西門店
 
-{{< image src="images/blog/shop.jpeg" width="">}}
+{{<img src="images/blog/shop.jpeg">}}
 
 <hr>
 我們是 Unplastify Youth 安普拉絲特φ 青少年去塑聯盟，一群致力於減塑的北一女學生<br>

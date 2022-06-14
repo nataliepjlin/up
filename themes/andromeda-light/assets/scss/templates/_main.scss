@@ -939,6 +939,13 @@
     -webkit-text-decoration-color: lighten($black, 26.67);
     -moz-text-decoration-color: lighten($black, 26.67);
   }
+  img {
+    max-width: 100%;
+    display:block;
+    margin:auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
 }
 
 .card-author {

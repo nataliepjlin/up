@@ -1301,6 +1301,12 @@ header {
     text-decoration-color: #444444;
     -webkit-text-decoration-color: #444444;
     -moz-text-decoration-color: #444444; }
+  .blog-card img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px; }
 
 .card-author .user-info p {
   line-height: 1.3; }
