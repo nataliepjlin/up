@@ -1,7 +1,7 @@
 ---
-date: "2022-03-08"
+date: "2022-06-08"
 title: "不塑之渴"
-image: "images/blog/10.png"
+image: "images/blog/steps.png"
 draft: false
 categories: [去塑行動]
 tags: [不塑之渴]
