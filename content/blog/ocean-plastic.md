@@ -2,7 +2,7 @@
 title: "知識分享《回收海洋塑膠》"
 date: 2022-06-11
 draft: false
-image: "images/blog/ocean-plastic.jpg"
+image: "images/blog/ocean-plastic.png"
 ---
 
 

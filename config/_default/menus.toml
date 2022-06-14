@@ -17,20 +17,14 @@ hasChildren = true
   [[main]]
   parent = "去塑行動"
   name = "不塑之渴"
-  url = "/tags/不塑之渴"
+  url = "/blog/delivery-without-plastic"
   weight = 1
 
   [[main]]
   parent = "去塑行動"
-  name = "獲獎紀錄"
-  url = "/categories/獲獎紀錄"
+  name = "水果店環保袋循環計畫"
+  url = "/categories/水果店環保袋循環計畫"
   weight = 2
-
-  [[main]]
-  parent = "去塑行動"
-  name = "其他去塑行動"
-  url = "/categories/其他去塑行動"
-  weight = 3
 
 [[main]]
 weight = 4

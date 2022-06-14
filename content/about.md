@@ -43,39 +43,23 @@ our_office:
 # prizes
 prizes:
   enable: true
-  # subtitle: "Special Features"
-  title: "得獎紀錄"
+  subtitle: "[點**這裡**了解更多我們曾獲得的獎項!](/categories/獲獎紀錄)"
+  title: "獲獎紀錄"
   features_blocks:
-  - icon: "las la-trophy"
+  - prize_image: "images/blog/兒少公益_1.png"
     title: "愛讓世界轉動 兒少公益行動"
-    content: "優選第一名"
-  - icon: "las la-trophy"
+    content: "優選第一名<br>[<ins> 了解更多](/blog/golden-car/)"
+  - prize_image: "images/blog/公民行動_1.png"
     title: "第11屆全國公民行動方案競賽"
     content: "高中組佳作<br>[<ins> 了解更多](/blog/citizen-actions/)"
-  - icon: "las la-trophy"
+  - prize_image: "images/blog/得獎文_1.png"
     title: "教育部青年發展署青年志工團隊競賽及運用單位表揚計畫"
     content: "創新服務獎<br>[<ins> 了解更多](/blog/innovative-award/)"
-  - icon: "las la-trophy"
+  - prize_image: "images/blog/speak_out.jpg"
     title: "行政院環保署環保領袖甄選"
     content: "環境領袖獎"
-# # our team
-# our_team:
-#   enable: true
-#   # subtitle: "Our members"
-#   title: "得獎紀錄"
-#   # description: "我們得過的獎"
-#   team:
-#   - name: "愛讓世界轉動 兒少公益行動:<br>優選第一名  "
-#     image: "images/about/team/prize_1.jpg"
-#     # designation: "Operations"
-#   - name: "第11屆全國公民行動方案競賽:<br>高中組佳作"
-#     image: "images/about/team/prize_2.jpg"
-#     # designation: "Product"
-#   - name: "教育部青年發展署青年志工團隊競賽及運用單位表揚計畫:<br>創新服務獎"
-#     image: "images/about/team/prize_3.jpg"
-#     # designation: "Engineering"
-#   - name: "行政院環保署環保領袖甄選:<br>環境領袖獎"
-#     image: "images/about/team/prize_4.jpg"
+
+
 
 
 ---
