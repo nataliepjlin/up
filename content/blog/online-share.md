@@ -18,7 +18,7 @@ image: "images/blog/online-share.jpg"
 <br>
 
 ## 感謝狀
-{{< image src="images/blog/thank.jpg" position="center" >}}
+{{< image src="images/blog/thank.jpg" position="center" width="360px">}}
 
 <hr>
 我們是 Unplastify Youth 安普拉絲特φ 青少年去塑聯盟，一群致力於減塑的北一女學生<br>

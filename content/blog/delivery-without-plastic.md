@@ -19,7 +19,7 @@ tags: [不塑之渴]
 
 ### 有哪些店家呢?
 合作店家共以下十一家:
-<iframe src="https://www.google.com.tw/maps/d/u/4/embed?mid=1fDDpLyCFKAb0EUVzrMQ0n9ZrFJk55t8&ehbc=2E312F" width="960" height="720"></iframe>
+<iframe src="https://www.google.com.tw/maps/d/u/4/embed?mid=1fDDpLyCFKAb0EUVzrMQ0n9ZrFJk55t8&ehbc=2E312F" width="70%" height="480"></iframe>
 
 #### ｜foodpanda & Uber eats都可以｜
 
@@ -39,8 +39,8 @@ tags: [不塑之渴]
 #### ｜Uber eats｜
 📍水巷茶弄 台北南陽店<br>
 📍老賴茶棧 台北西門店
-<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.377084474057!2d139.75146199999998!3d35.667716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b933eb5098d%3A0xb799ee788fa28eb7!2seSolia+Inc.!5e0!3m2!1sen!2sjp!4v1434536695719" width="600" height="450" frameborder="0" style="border:0"></iframe> -->
-{{< image src="images/blog/shop.jpeg">}}
+
+{{< image src="images/blog/shop.jpeg" width="">}}
 
 <hr>
 我們是 Unplastify Youth 安普拉絲特φ 青少年去塑聯盟，一群致力於減塑的北一女學生<br>
