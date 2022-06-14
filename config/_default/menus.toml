@@ -17,7 +17,7 @@ hasChildren = true
   [[main]]
   parent = "去塑行動"
   name = "不塑之渴"
-  url = "/blog/delivery-without-plastic"
+  url = "/tags/不塑之渴"
   weight = 1
 
   [[main]]

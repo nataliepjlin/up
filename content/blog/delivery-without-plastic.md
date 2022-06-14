@@ -1,7 +1,7 @@
 ---
 date: "2022-06-08"
 title: "不塑之渴"
-image: "images/blog/steps.png"
+image: "images/blog/delivery-without-plastic.png"
 draft: false
 categories: [去塑行動]
 tags: [不塑之渴]
