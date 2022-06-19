@@ -58,6 +58,9 @@ prizes:
   - prize_image: "images/blog/speak_out.jpg"
     title: "行政院環保署環保領袖甄選"
     content: "環境領袖獎"
+  - prize_image: "images/about/hotai.png"
+    title: "和泰公益夢想家"
+    content: "通過初賽，獲得20萬實作金"
 
 
 
