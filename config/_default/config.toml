@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://unplastifyyouth.org/"
+baseURL = "https://unplastifyyouth.org"
 canonifyURLs = "true"
 title = "UNPLASTIFY YOUTH"
 theme = "andromeda-light"
