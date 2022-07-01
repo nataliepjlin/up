@@ -1,6 +1,6 @@
 ---
 title: "第十一屆 愛讓世界轉動 兒少公益行動"
-date: 2022-06-14T21:41:20+08:00
+date: 2022-06-19T21:41:20+08:00
 draft: false
 image: "images/blog/兒少公益_1.png"
 categories: [獲獎紀錄]
