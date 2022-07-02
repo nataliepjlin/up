@@ -342,8 +342,8 @@
                 <div class="block">
                   {{ if fileExists (add `assets/` .prize_image) }}
                   {{$img:= resources.Get .prize_image }}
-                  {{$img:= $img.Resize "300x "}}
-                  {{$imgWebp:= $img.Resize "300x webp"}}
+                  {{$img:= $img.Resize "240x "}}
+                  {{$imgWebp:= $img.Resize "240x webp"}}
                   <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="Flags" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
                   {{end}}
                 </div>
