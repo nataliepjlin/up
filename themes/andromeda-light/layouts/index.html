@@ -137,7 +137,11 @@
       <div class="col-lg-12" data-aos="fade-up">
         <div class="section-title text-center">
           <p class="text-uppercase">{{.subtitle | markdownify}}</p>
-          <h2 class="title">{{.title | markdownify}}</h2>
+          {{ with .title_link }}
+          <a href="{{.}}" target="_blank" rel="noopener">
+            <h2 class="title">關於我們</h2>
+          </a>
+          {{ end }}
           <p>{{.description | markdownify}}</p>
         </div>
       </div>
@@ -179,7 +183,11 @@
       <div class="col-lg-12" data-aos="fade-up">
         <div class="section-title text-center">
           <p class="text-uppercase">{{.subtitle | markdownify}}</p>
-          <h2 class="title">{{.title | markdownify}}</h2>
+          {{ with .title_link }}
+          <a href="{{.}}" target="_blank" rel="noopener">
+            <h2 class="title">行動與教育</h2>
+          </a>
+          {{ end }}
           <p>{{.description | markdownify}}</p>
         </div>
       </div>

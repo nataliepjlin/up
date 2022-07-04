@@ -1435,3 +1435,10 @@ footer.footer {
     padding: 30px 5px 30px 10px; }
   .timeline ul li .content h3 {
     font-size: 15px; } }
+
+ins {
+  padding: 8px 12px;
+  border-radius: 4px;
+  color: white;
+  background-color: #349D48;
+  text-decoration: none; }
