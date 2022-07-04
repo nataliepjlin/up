@@ -49,13 +49,16 @@ features2:
   # subtitle: "Special Features"
   title_link: /blog
   features_blocks:
-  - icon: "las la-graduation-cap"
+  - card_link: "/categories/環境教育/"
+    icon: "las la-graduation-cap"
     title: "環境教育"
     content: "減塑，關我什麼塑？一堂給高中生的不塑之課<br><br>[<ins> 了解更多](/categories/環境教育/)"
-  - icon: "las la-running"
+  - card_link: "/categories/去塑行動/"
+    icon: "las la-running"
     title: "去塑行動"
     content: "•不塑之渴—外送環保袋循環<br>•水果店內環保袋循環<br><br>[<ins> 了解更多](/categories/去塑行動/)"
-  - icon: "las la-share"
+  - card_link: "/categories/知識分享/"
+    icon: "las la-share"
     title: "知識分享"
     content: "•知識分享《戰爭之後，土地怎麼了?》<br>•知識分享《Vegan • 拯救地球?》<br><br>[<ins> 了解更多](/categories/知識分享/)"
 

@@ -155,11 +155,13 @@
             {{range .}}
             <div class="swiper-slide">
               <div class="features-card">
-                <div class="icon text-primary">
+                <a href="{{ .card_link }}">
+                  <div class="icon text-primary">
                   <i class="{{.icon}}"></i>
                 </div>
                 <h3 class="title">{{.title | markdownify}}</h3>
                 <p class="mb-0">{{.content | markdownify}}</p>
+                </a>
               </div>
             </div>
             {{end}}
@@ -201,7 +203,7 @@
             {{range .}}
             <div class="swiper-slide">
               <div class="features-card">
-                <a href="{{.card_link}}">
+                <a href="{{ .card_link }}">
                   <div class="icon text-primary">
                   <i class="{{.icon}}"></i>
                 </div>
