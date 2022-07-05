@@ -8,7 +8,7 @@ logo_width = "240x"
 # logo text will only show when logo is missing.
 logo_text = "UNPLASTIFY YOUTH"
 # OpenGraph / Twitter Card metadata
-description = "我們是安普拉絲特Φ UNPLASTIFY YOUTH"
+description = "我們是安普拉絲特Φ UNPLASTIFY YOUTH，這裡是我們的官方網站! #安普 #安普拉絲特 #安普拉絲特Φ #少年去塑 #北一女中"
 author = "UNPLASTIFY YOUTH"
 image = "images/logo.png"                # this image will be used as fallback if a page has no image of its own
 
