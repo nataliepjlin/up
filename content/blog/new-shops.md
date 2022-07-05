@@ -5,7 +5,6 @@ image: "images/blog/10.png"
 draft: false
 categories: [去塑行動]
 tags: [不塑之渴]
-show_date: false
 ---
 ### ⏰活動期程
 
