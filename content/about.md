@@ -2,6 +2,7 @@
 title: "關於我們"
 layout: "about"
 draft: false
+description: "關於安普拉絲特φ UNPLASTIFY YOUTH #安普 #安普拉絲特 #安普拉斯特 #安普拉絲特φ #安普拉斯特φ #up" 
 
 # who_we_are
 who_we_are:
