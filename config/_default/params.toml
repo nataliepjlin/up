@@ -27,6 +27,8 @@ custom_script = ""
 # buy premium popup
 buy_premium_popup = false
 
+# search = true
+
 # Main Sections
 mainSections = ["blog"]
 
