@@ -91,7 +91,7 @@ function ready(fn) {
   
   function populateResults(result) {
     result.forEach(function (value, key) {
-      var content = value.item.contents;
+      var content = value.item.content;
       var snippet = "";
       var snippetHighlights = [];
       var tags = [];

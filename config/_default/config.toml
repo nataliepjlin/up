@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://unplastifyyouth.org"
 canonifyURLs = "true"
-title = "UNPLASTIFY YOUTH"
+title = "安普拉絲特φ | Unplastify Youth"
 theme = "andromeda-light"
 # post pagination
 paginate = "6"
