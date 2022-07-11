@@ -5,7 +5,7 @@
 
 <head>
 	<meta charset="utf-8">
-<title>Search Results</title>
+<title>🔎︎</title>
 
 
 
@@ -40,10 +40,10 @@
 
 
 <!-- Open Graph image and Twitter Card metadata -->
-<meta name="twitter:title" content="Search Results"/>
-<meta name="twitter:description" content="This file exists solely to respond to /search URL with the related search layout template."/>
-<meta property="og:title" content="Search Results" />
-<meta property="og:description" content="This file exists solely to respond to /search URL with the related search layout template." />
+<meta name="twitter:title" content="🔎︎"/>
+<meta name="twitter:description" content="搜尋中"/>
+<meta property="og:title" content="🔎︎" />
+<meta property="og:description" content="搜尋中" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://unplastifyyouth.org/search/" /><meta property="article:section" content="" />
 
@@ -51,8 +51,8 @@
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Search Results"/>
-<meta name="twitter:description" content="This file exists solely to respond to /search URL with the related search layout template."/>
+<meta name="twitter:title" content="🔎︎"/>
+<meta name="twitter:description" content="搜尋中"/>
 
 
 
@@ -243,7 +243,21 @@
                   </li>
                   
                   
+
+                  
+                  
+                  
+                  
+                  
+                  <li class="nav-item active">
+                    <a class="nav-link" 
+                      href="https://unplastifyyouth.org/search/">🔎︎</a>
+                  </li>
+                  
+                  
+                  
                 </ul>
+              
         
                 
                 <div class="navbar-right">
@@ -260,25 +274,215 @@
 
 	<main>
 		
-<section class="resume-section p-3 p-lg-5 d-flex flex-column">
-  <div class="my-auto" >
-    <form action="https://unplastifyyouth.org/search">
-      <input id="search-query" name="s"/>
-    </form>
-    <div id="search-results">
-     <h3>Matching pages</h3>
+
+
+
+<section class="page-header">
+  <div class="container-xxl">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="block">
+          <div class="section-title text-center mb-0">
+            <h1 class="title underline-none" data-aos="fade-up">🔎︎</h1>
+            <nav aria-label="breadcrumb" data-aos="fade-up" data-aos-delay="200">
+              <ol class="breadcrumb justify-content-center bg-transparent p-0 mb-0">
+                <li class="breadcrumb-item"><a class="link-primary" href="https://unplastifyyouth.org/">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">🔎︎</li>
+              </ol>
+            </nav>
+          </div>
+        </div>
+
+        <div class="has-circle">
+          <img class="wave-1 w-100" src="https://unplastifyyouth.org/images/waves/05.svg" alt="*">
+          <img class="wave-2 w-100" src="https://unplastifyyouth.org/images/waves/04.svg" alt="*">
+          <span class="circle-1 ratio-32" data-rellax-speed="-2"></span>
+          <span class="circle-2 ratio-73 fill" data-rellax-speed="-2"></span>
+          <span class="circle-3 ratio-20 fill" data-rellax-speed="1"></span>
+          <span class="circle-4 ratio-47" data-rellax-speed="-1"></span>
+          <span class="circle-5 ratio-62" data-rellax-speed="-0.5"></span>
+          <span class="circle-6 ratio-20 fill"></span>
+          <span class="circle-7 ratio-73" data-rellax-speed="-1"></span>
+          <span class="circle-8 ratio-37" data-rellax-speed="-.5"></span>
+          <span class="circle-9 ratio-20" data-rellax-speed="1"></span>
+          <span class="circle-10 ratio-65 fill"></span>
+          <span class="circle-11 ratio-20" data-rellax-speed="-2"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section-sm">
+  <div class="container-xxl">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <div class="content">
+          <style>
+  /* 手机适配 */
+  @media screen and (max-width: 500px) {
+     .search{
+       padding-right: 25px;
+     }
+
+     .search input{
+       width: 96%;
+     }
+
+     .search button{
+       display: true;
+     }
+  }
+  /* 电脑适配 */
+  @media screen and (min-width: 500px) {
+      .search{
+        width: 500px;
+      }
+
+      .search input{
+        width: 444px;
+      }
+  }
+
+  /* 通用样式 */
+  .search{
+    margin: auto;
+  }
+
+  .search input{
+    outline: none;
+    border: 2px solid #349D48;
+    height: 32px;
+    padding: 10px;
+  }
+  .search button{
+    outline: none;
+    border: 0px;
+    height: 32px;
+    width:32px;
+    position:absolute;
+    background-color: #349D48 ;
+  }
+  .search .icon{
+    width: 16px;
+    height: 16px;
+  }
+  a.post-link{
+    color: black;
+    text-decoration: none;
+  }
+    &:hover{
+      color: #349D48;
+    }
+  a.read-more-link{
+    padding: 8px 12px;
+    border-radius: 4px;
+    color: white;
+    background-color: #349D48;
+    text-decoration: none;
+  }
+  #search-tip{
+    margin: 8px;
+    font-size: 16px;
+  }
+</style>
+<div class="search">
+  <input type="text" placeholder="輸入搜尋內容" id="search-key" />
+  <button onclick="search()">
+    <svg t="1583982313567" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1271"
+      width="200" height="200" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <defs>
+        <style type="text/css"></style>
+      </defs>
+      <path d="M694.857143 475.428571q0-105.714286-75.142857-180.857142T438.857143 219.428571 258 294.571429 182.857143 475.428571t75.142857 180.857143T438.857143 731.428571t180.857143-75.142857T694.857143 475.428571z m292.571428 475.428572q0 29.714286-21.714285 51.428571t-51.428572 21.714286q-30.857143 0-51.428571-21.714286l-196-195.428571q-102.285714 70.857143-228 70.857143-81.714286 0-156.285714-31.714286t-128.571429-85.714286-85.714286-128.571428T36.571429 475.428571t31.714285-156.285714 85.714286-128.571428 128.571429-85.714286T438.857143 73.142857t156.285714 31.714286 128.571429 85.714286 85.714285 128.571428T841.142857 475.428571q0 125.714286-70.857143 228l196 196q21.142857 21.142857 21.142857 51.428572z"
+        p-id="1272" fill="#ffffff"></path>
+    </svg>
+  </button>
+</div>
+<h1 id="search-tip" style="color: #349D48;text-align: center;display: none;">搜尋中</h1>
+<br />
+<div id="result"></div>
+<script type="text/javascript">
+  // enter
+  window.onload = function() {
+    document.onkeydown = function(ev) {
+      var event = ev || event
+      if (event.keyCode == 13) {
+        search()
+      }
+    }
+  }
+
+  // search
+  function search() {
+    key = document.getElementById("search-key").value;
+    if (key === "") {
+      return;
+    }
+    document.getElementById("search-key").value = "";
+
+    // tip
+    document.getElementById("search-tip").innerText = "搜尋中";
+    document.getElementById("search-tip").style.display = "block";
+
+    // clear
+    var el = document.getElementById('result');
+    var childs = el.childNodes;
+    for (var i = childs.length - 1; i >= 0; i--) {
+      el.removeChild(childs[i]);
+    }
+
+    // xml
+    xmltext = new XMLHttpRequest;
+    xmltext.open("GET", "/index.xml", false);
+    xmltext.send();
+    resp = xmltext.responseXML;
+    items = resp.getElementsByTagName("item");
+    // search
+    var i = 0;
+    haveResult = false;
+    while (i < items.length) {
+      txt = items[i].getElementsByTagName("title")[0].innerHTML + items[i].getElementsByTagName("description")[0].innerHTML
+      if (txt.indexOf(key) > -1) {
+        haveResult = true;
+        title = items[i].getElementsByTagName("title")[0].innerHTML;
+        link = items[i].getElementsByTagName("link")[0].innerHTML;
+        time = items[i].getElementsByTagName("pubDate")[0].innerHTML;
+        mark = items[i].getElementsByTagName("description")[0].innerHTML;
+        addItem(title, link, time, mark)
+      }
+      i++;
+    }
+    if (!haveResult) {
+      document.getElementById("search-tip").innerText = "未找到相關內容!";
+      document.getElementById("search-tip").style.display = "block";
+    }
+  }
+
+  // add
+  function addItem(title, link, time, mark) {
+    document.getElementById("search-tip").style.display = "none";
+    tmpl = "<article class=\"post\" style=\"padding: 8px 0px 16px 0px ; border-bottom: 1px solid #e6e6e6;\" >" +"<h3 class=\"post-title\"><a class=\"post-link\" href=\"" + link + "\" target=\"_blank\">" + title + "</a></h3>" +" </header>" +
+      "<div class=\"post-content\">" +
+      "<div class=\"post-summary\">" + mark + "</div>" +"<br>"+
+      "<div class=\"read-more\">" +
+      "<a href=\"" + link + "\" class=\"read-more-link\" target=\"_blank\">閱讀更多</a>" +
+      "</div>" +
+      " </div>" +
+      "</article>"
+    div = document.createElement("div")
+    div.innerHTML = tmpl;
+    document.getElementById('result').appendChild(div)
+  }
+</script>
+
+        </div>
+      </div>
     </div>
   </div>
 </section>
 
-<script id="search-result-template" type="text/x-js-template">
-    <div id="summary-${key}">
-      <h4><a href="${link}">${title}</a></h4>
-      <p>${snippet}</p>
-      ${ isset tags }<p>Tags: ${tags}</p>${ end }
-      ${ isset categories }<p>Categories: ${categories}</p>${ end }
-    </div>
-</script>
+
+
 
 	</main>
 
@@ -434,5 +638,4 @@
 </div>
 	
 </body>
-
 </html>

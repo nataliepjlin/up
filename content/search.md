@@ -12,11 +12,11 @@ weight = 30
      }
 
      .search input{
-       width: 100%;
+       width: 96%;
      }
 
      .search button{
-       display: none;
+       display: true;
      }
   }
   /* 电脑适配 */
@@ -162,5 +162,4 @@ weight = 30
     document.getElementById('result').appendChild(div)
   }
 </script>
-
 
