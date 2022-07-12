@@ -1,5 +1,5 @@
 ---
-title: "關於我們"
+title: "關於我們 | 安普拉絲特φ"
 layout: "about"
 draft: false
 description: "關於安普拉絲特φ UNPLASTIFY YOUTH #安普 #安普拉絲特 #安普拉斯特 #安普拉絲特φ #安普拉斯特φ #up" 

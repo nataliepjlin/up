@@ -1,5 +1,5 @@
 ---
-title: "蜜世界環保袋集點活動"
+title: "蜜世界環保袋集點活動 | 安普拉絲特φ"
 date: 2022-06-21
 draft: false
 image: "images/blog/points.png"

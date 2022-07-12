@@ -17,6 +17,10 @@ tags: [不塑之渴]
 在品項備註欄寫上「北一女中不要塑膠袋」➡️裝著餐點的安普環保袋送達手中！
 ➡️使用完畢後至大小熱還碗處掛鉤歸還
 
+### ⏰最新一期活動期程
+
+3/7(一)~5/15(日)
+
 ### 有哪些店家呢?
 合作店家共以下十一家:
 <iframe src="https://www.google.com.tw/maps/d/u/4/embed?mid=1fDDpLyCFKAb0EUVzrMQ0n9ZrFJk55t8&ehbc=2E312F" width="100%" height="480"></iframe>

@@ -1,5 +1,5 @@
 ---
-title: "聯絡我們"
+title: "聯絡我們 | 安普拉絲特φ"
 layout: "contact"
 draft: false
 contact_image: "images/vectors/contact.png"
