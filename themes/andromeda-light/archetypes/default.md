@@ -2,7 +2,8 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-show_date: true
+categories: []
+tags: []
 # template in theme/archetypes/default.md
 ---
 <hr>
