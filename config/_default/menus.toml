@@ -1,0 +1,70 @@
+# main menu
+[[main]]
+name = "首頁"
+url = ""
+weight = 1
+
+[[main]]
+name = "關於我們"
+url = "about/"
+weight = 2
+
+[[main]]
+weight = 3
+name = "去塑行動"
+hasChildren = true
+  
+  [[main]]
+  parent = "去塑行動"
+  name = "不塑之渴"
+  url = "/blog/delivery-without-plastic"
+  weight = 1
+
+  [[main]]
+  parent = "去塑行動"
+  name = "塑本從源"
+  url = "/blog/recycle"
+  weight = 2
+
+  [[main]]
+  parent = "去塑行動"
+  name = "水果店環保袋循環計畫"
+  url = "/categories/水果店環保袋循環計畫"
+  weight = 3
+
+[[main]]
+weight = 4
+name = "環境教育"
+url = "/categories/環境教育"
+
+[[main]]
+weight = 5
+name = "知識分享"
+url = "/categories/知識分享"
+  
+[[main]]
+name = "聯絡我們"
+url = "contact/"
+weight = 7
+
+
+# footer menu
+[[footer]]
+name = "關於我們"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "去塑行動"
+url = "/categories/去塑行動/"
+weight = 2
+
+[[footer]]
+name = "環境教育"
+url = "/categories/環境教育/"
+weight = 3
+
+[[footer]]
+name = "知識分享"
+url = "/categories/知識分享/"
+weight = 4

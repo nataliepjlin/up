@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+{{ partial "page-header.html" . }}
+
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center align-items-center">
+        {{with site.Params.social}}
+        <div class="col-xl-5 col-lg-6 col-md-12 contact-widget" data-aos="fade-up" data-aos-delay="200">
+          <div class="block text-center">
+            <h3 class="mb-4">想掌握我們的最新資訊嗎?</h3>
+            <ul class="list-unstyled">
+              {{range .}}
+              {{if .}}
+              <li><a href="{{.link}}"><i class="{{.icon}}"></i>{{.title}}</a></li>
+              {{end}}
+              {{end}}
+            </ul>
+          </div>
+        </div>
+        {{end}}
+        {{with site.Params.contact_info.email}}
+        <div class="col-xl-5 col-lg-6 col-md-12 contact-widget" data-aos="fade-up" data-aos-delay="100">
+          <div class="block text-center">
+            <h3 class="mb-4">想和我們合作嗎?</h3>
+            <ul class="list-unstyled">
+              {{range .}}
+              {{if .}}
+              <li><a href="mailto:{{.}}"><i class="las la-envelope-open-text"></i>{{.}}</a></li>
+              {{end}}
+              {{end}}
+            </ul>
+          </div>
+        </div>
+        {{end}}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

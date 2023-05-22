@@ -1,0 +1,413 @@
+{{define "main"}}
+
+{{ partial "page-header.html" . }}
+
+{{with .Params.who_we_are}}
+{{if .enable}}
+<section class="section-sm">
+  <div class="container">
+    <div class="row justify-content-center align-items-center">
+      <div class="col-lg-4 col-md-6 " data-aos="fade-up">
+        <div class="section-title text-center">
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+          <h2 class="title">{{.title | markdownify}}</h2>
+          <p>{{.description | markdownify}}</p>
+        </div>
+      </div>
+      <!-- <div class="col-lg-5 col-md-6" data-aos="fade-up" data-aos-delay="150">
+        <div class="about-image">
+          <div class="block">
+            {{ if fileExists (add `assets/` .image) }}
+            {{$img:= resources.Get .image }}
+            {{$img:= $img.Resize "464x"}}
+            <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Video Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+            {{end}} -->
+
+            <!-- <div class="has-circle">
+              <span class="circle-4 ratio-20 fill"></span>
+              <span class="circle-5 ratio-47"></span>
+            </div>
+          </div> -->
+
+          <!-- <div class="has-circle">
+            <span class="circle-1 ratio-85 fill"></span>
+            <span class="circle-2 ratio-37"></span>
+            <span class="circle-3 ratio-20 fill"></span>
+            <span class="circle-6 ratio-85 fill"></span>
+          </div> -->
+        <!-- </div>
+      </div> -->
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
+{{with .Params.what_we_do}}
+{{if .enable}}
+<section data-aos="fade-in" id="行動時間軸">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="section-title text-center">
+          <h2 class="title">{{.title | markdownify}}</h2>
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+        </div>
+      </div>
+      <div class="col-xl-5 col-lg-6">
+        <h3 class="title">短期活動</h3>
+        <div class="timeline">
+          <ul>
+            <li>
+              <a href="/blog/fruit-bag">
+                <div class="content">
+                  <h3>速戰塑絕志工</h3>
+                  <p>
+                    集結高中生的力量，帶動民眾使用環保袋、店內購物袋的風氣，減少塑膠袋的使用。
+                    <br>有別於其他減塑活動，「速戰塑絕」講求透過簡單、不費力的方式達成循環，即使空手去水果店，只要使用店內環保袋，就能減少塑膠量，還能獲得文旦與摸彩券。
+                  </p>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/blog/lecture">
+                <div class="content">
+                  <h3>減塑，關我什麼塑？ 一堂給高中生的不塑之課</h3>
+                  <p>特別邀請三位有著豐富經歷的講者們，<br>來和台灣青年分享減塑問題，認識塑膠對我們的危害及預防的措施。
+                  </p>
+                </div>
+              </a>
+            </li>
+            <li>
+              <!-- <span>15th April 2018</span> -->
+              <div class="content">
+                <h3>中小學生講座</h3>
+                <p>
+                  聯盟向中永和慈籃隊員及家長分享去塑理念和聯盟經歷，提供人人皆可參與的簡單減塑行動，並透過有獎徵答引導孩子思考，以喚起下一代的環保意識。
+                </p>
+              </div>
+            </li>
+            <li>
+              <!-- <span>22nd Mars 2017</span> -->
+              <div class="content">
+                <h3>減塑吃橘子</h3>
+                <p>
+                  聯盟與蜜世界鮮果廣場合作，舉辦了兩小時的快閃減塑活動，只要民眾自備提袋購買水果，滿250元即贈送一斤橘子。活動成果十分亮眼，保守估計兩個小時內就省下了500個大塑
+膠袋的使用，是原先目標66斤的7.5倍。
+                </p>
+              </div>
+            </li>
+      
+            <li>
+              <!-- <span>22nd Mars 2017</span> -->
+              <div class="content">
+                <h3>請問您要塑膠袋還是摸彩券？</h3>
+                <p>聯盟和30家永和餐飲店家合作，只要民眾不拿店家提供的塑膠提袋，即可拿到一張摸彩券。而聯盟每個月也都會抽出數份共兩千元的獎勵金，以及熱心民眾
+贊助的餐券等各式各樣獎品，鼓勵民眾養成自備提袋的習慣。聯盟透過這個活動為永和省下了12707個塑膠袋。
+                </p>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-xl-5 col-lg-6">
+        <h3 class="title ">持續性活動</h3>
+        <div class="col">
+          <a href="/categories/知識分享/">
+            <div class="office-loc-item">
+              <h4>知識分享貼文</h4>
+              <hr>
+              <p>藉由清楚又精美的圖片和說明，分享環保與塑膠相關知識，涵蓋環保小撇步、國際環保議題等內容。</p>
+            </div>
+          </a>
+          <a href="/categories/水果店環保袋循環計畫/">
+            <div class="office-loc-item">
+              <h4>水果店內環保袋循環</h4>
+              <hr>
+              <p>在水果店內常設公用環保袋，並透過宣傳等方式，鼓勵民眾自發性使用自備或店內的環保袋，以環保袋選購水果、循環使用，預期在三個月內減少135000個塑膠袋。</p>
+            </div>
+          </a>
+          <a href="/blog/delivery-without-plastic/">
+            <div class="office-loc-item">
+              <h4>不塑之渴—外送環保袋循環</h4>
+              <hr>
+              <p>每次訂完外送之後，滿手的塑膠袋是否讓你頭很大? 我們與十一家飲料店合作「北一女校內外送循環環保袋計畫」</p>
+            </div>
+          </a>
+          <a href="/blog/">
+            <div class="office-loc-item">
+              <h4>塑本從源-塑膠製品回收計畫</h4>
+              <hr>
+              <p>安普拉絲特Φ與多家飲料店家、攤販合作，將在學校向師生搜集的塑膠袋、杯架清潔、消毒後，回收至店家，達到循環利用。</p>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
+{{with .Params.our_mission}}
+{{if .enable}}
+<section class="section-sm">
+  <div class="container">
+    <div class="row justify-content-center align-items-center">
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="150">
+        <div class="section-title">
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+          <h2 class="title">{{.title | markdownify}}</h2>
+          <p>{{.description | markdownify}}</p>
+        </div>
+      </div>
+      <div class="col-lg-5 col-md-6" data-aos="fade-up">
+        <div class="about-image">
+          <div class="block">
+            {{ if fileExists (add `assets/` .image) }}
+            {{$img:= resources.Get .image }}
+            {{$img:= $img.Resize "4645x"}}
+            <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Video Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+            {{end}}
+
+            <div class="has-circle">
+              <span class="circle-4 ratio-20 fill"></span>
+              <span class="circle-5 ratio-47"></span>
+            </div>
+          </div>
+
+          <div class="has-circle">
+            <span class="circle-1 ratio-85 fill"></span>
+            <span class="circle-2 ratio-37"></span>
+            <span class="circle-3 ratio-20 fill"></span>
+            <span class="circle-6 ratio-85 fill"></span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="150">
+        <div class="section-title">
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+          <h2 class="title">{{.title | markdownify}}</h2>
+          <p>{{.description | markdownify}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
+{{with .Params.about_video}}
+{{if .enable}}
+<section class="video-popup video-popup-two has-bg-color">
+  <div class="container-xxl">
+    <div class="row justify-content-center">
+      <div class="col-lg-12">
+        <div class="block">
+          <div class="row justify-content-center align-items-center">
+            <div class="col-lg-5">
+              <div class="section-title" data-aos="fade-up">
+                <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+                <h2 class="title">{{.title | markdownify}}</h2>
+                <p>{{.description | markdownify}}</p>
+              </div>
+            </div>
+
+            <div class="col-lg-5">
+              <div class="has-video-popup" data-aos="fade-up" data-aos-delay="100">
+                <button type="button" class="video-play-btn" data-src="{{.video_url}}">
+                  <i class="las la-play"></i>
+                </button>
+                {{ if fileExists (add `assets/` .video_thumbnail) }}
+                {{$img:= resources.Get .video_thumbnail }}
+                {{$img:= $img.Resize "700x "}}
+                {{$imgWebp:= $img.Resize "700x webp"}}
+                <img loading="lazy" decoding="async" class="img-fluid video-thumb" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="Video Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+                {{end}}
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="has-circle has-bg-anim" data-aos="fade-in">
+          <span class="circle-1 ratio-32"></span>
+          <span class="circle-2 ratio-20"></span>
+          <span class="circle-3 ratio-20"></span>
+          <span class="circle-4 ratio-20"></span>
+          <span class="circle-5 ratio-37"></span>
+          <span class="circle-6 ratio-20"></span>
+          <span class="circle-7 ratio-47"></span>
+          <span class="circle-8 ratio-37"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
+{{with .Params.brands_carousel}}
+{{if .enable}}
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title text-center" data-aos="fade-in">
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+          <h2 class="title">{{.title | markdownify}}</h2>
+        </div>
+      </div>
+      {{with site.GetPage (string .Params.clients.section)}}
+      {{with .Params.brands_carousel}}
+      <div class="col-md-12" data-aos="fade-left">
+        <div class="brand-carousel swiper-container border-0 mt-0">
+          <div class="swiper-wrapper">
+            {{range .brand_images}}
+            {{ if fileExists (add `assets/` .) }}
+            <div class="swiper-slide">
+              <div class="brand-item">
+                {{$img:= resources.Get . }}
+                {{$img_width := $img.Width }}
+
+                {{$img_orginal := add (add (string $img_width) "x") " " }}
+                {{$img_src := ($img.Resize $img_orginal).RelPermalink }}
+
+                {{$imgWebp := add (add (string $img_width) "x") " webp" }}
+                {{$imgWebp_src := ($img.Resize $imgWebp).RelPermalink }}
+                <img loading="lazy" decoding="async" class="img-fluid" width="{{$img_width}}" height="{{$img.Height}}" src="{{$imgWebp_src}}" alt="Brand Image" onerror="this.onerror=null;this.src='{{$img_src}}'">
+              </div>
+            </div>
+            {{end}}
+            {{end}}
+          </div>
+        </div>
+      </div>
+      {{end}}
+      {{end}}
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
+
+{{with .Params.our_office}}
+{{if .enable}}
+<section class="section-sm mb-4" id="組織架構">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-xl-6 col-lg-8 col-md-10">
+        <div class="section-title text-center mb-0" data-aos="fade-in">
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+          <h2 class="title">{{.title | markdownify}}</h2>
+          <p>{{.description | markdownify}}</p>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-xl-10">
+        <div class="row">
+          {{range .office_locations}}
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="office-loc-item">
+              <h3>{{.city | markdownify}}</h3>
+              <p>{{.address_line_one | markdownify}}</p>
+              <p>{{.address_line_two | markdownify}}</p>
+            </div>
+          </div>
+          {{end}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
+{{with .Params.prizes}}
+{{if .enable}}
+<section class="section features overflow-hidden" id="獲獎紀錄">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12" data-aos="fade-up">
+        <div class="section-title text-center">
+          <h2 class="title">{{.title | markdownify}}</h2>
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+          <p>{{.description | markdownify}}</p>
+        </div>
+      </div>
+    </div>
+
+    {{with .features_blocks}}
+    <div class="row">
+      <div class="col-lg-12" data-aos="fade-left" data-aos-delay="200">
+        <div class="features-carousel swiper-container">
+          <div class="swiper-wrapper align-items-center">
+            {{range .}}
+            <div class="swiper-slide">
+              <div class="features-card">
+                <div class="block">
+                  {{ if fileExists (add `assets/` .prize_image) }}
+                  {{$img:= resources.Get .prize_image }}
+                  {{$img:= $img.Resize "240x "}}
+                  {{$imgWebp:= $img.Resize "240x webp"}}
+                  <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="Flags" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+                  {{end}}
+                </div>
+                <h3 class="title">{{.title | markdownify}}</h3>
+                <p class="mb-0">{{.content | markdownify}}</p>
+              </div>
+            </div>
+            {{end}}
+          </div>
+
+          <div class="swiper-pagination"></div>
+        </div>
+      </div>
+    </div>
+    {{end}}
+  </div>
+</section>
+{{end}}
+{{end}}
+
+{{with .Params.prizes_2}}
+{{if .enable}}
+<section class="section-sm mb-4">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-xl-6 col-lg-8 col-md-10">
+        <div class="section-title text-center mb-0" data-aos="fade-in">
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+          <h2 class="title">{{.title | markdownify}}</h2>
+          <p>{{.description | markdownify}}</p>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-xl-10">
+        <div class="row">
+          {{range .office_locations}}
+          <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="office-loc-item">
+              {{ if fileExists (add `assets/` .country_flag) }}
+              {{$img:= resources.Get .country_flag }}
+              {{$img:= $img.Resize "80x "}}
+              {{$imgWebp:= $img.Resize "80x webp"}}
+              <img loading="lazy" decoding="async" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="Flags" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+              {{end}}
+              <h3>{{.city | markdownify}}</h3>
+              <p>{{.address_line_one | markdownify}}</p>
+              <p>{{.address_line_two | markdownify}}</p>
+            </div>
+          </div>
+          {{end}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
+{{end}}

@@ -1,0 +1,85 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.jpg"
+# logo
+logo = "images/logo.jpg"
+# use `x` with logo_width, example: "100x"
+logo_width = "240x"
+# logo text will only show when logo is missing.
+logo_text = "安普拉絲特Φ"
+# OpenGraph / Twitter Card metadata
+description = "我們是安普拉絲特Φ UNPLASTIFY YOUTH，這裡是我們的官方網站! #安普 #安普拉斯特 #安普拉絲特 #安普拉絲特Φ #少年去塑 #北一女中"
+author = "安普拉絲特φ"
+image = "images/logo.png"                # this image will be used as fallback if a page has no image of its own
+
+# footer information
+footer_info = "我們是一群北一女中的學生<br>我們相信每一片土地和人同樣值得被友善對待"
+
+# contact form action
+contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
+
+# copyright
+copyright = "2022 安普拉絲特φ青少年去塑聯盟"
+
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+custom_script = ""
+
+# buy premium popup
+buy_premium_popup = false
+
+# search = true
+
+# Main Sections
+mainSections = ["blog"]
+
+# reading time for blog posts
+reading_time = false
+
+# contact information
+[contact_info]
+email = ["unplastifyyouth2020@gmail.com"]
+
+# imaging processing
+[imaging]
+# Default JPEG or WebP quality setting. Default is 100.
+quality = 100
+
+# Preloader
+[preloader]
+enable = false
+preloader = "images/loading.png" # use jpg, png, svg or gif format.
+
+# Navigation button
+[navigation_button]
+enable = true
+label = "支持我們"
+link = "/fundraise"
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+# call-to-action
+[cta]
+enable = false
+title = "Get Andromeda-Premium Now"
+content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+button = "Download The Theme"
+button_link = "https://gethugothemes.com/products/andromeda/"
+
+############################# social site ########################
+[[social]]
+title = "@unplastifyyouth2020"
+icon = "lab la-facebook-f" # https://icons8.com/line-awesome
+link = "https://www.facebook.com/unplastifyyouth2020"
+
+[[social]]
+title = "@unplastifyyouth"
+icon = "lab la-instagram"  # https://icons8.com/line-awesome
+link = "https://www.instagram.com/unplastifyyouth"
+
+
+
