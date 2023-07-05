@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://unplastifyyouth.org"
+baseURL = "https://unplastify-youth.netlify.app"
 canonifyURLs = "true"
 title = "安普拉絲特φ青少年去塑聯盟"
 theme = "andromeda-light"
