@@ -19,7 +19,7 @@ footer_info = "我們是一群北一女中的學生<br>我們相信每一片土�
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
 
 # copyright
-copyright = "2022 安普拉絲特φ青少年去塑聯盟"
+copyright = "2023 安普拉絲特φ青少年去塑聯盟"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script = ""
