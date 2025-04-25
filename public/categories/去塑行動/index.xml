@@ -2,87 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>去塑行動 on 安普拉絲特φ青少年去塑聯盟</title>
-    <link>https://unplastify-youth.netlify.app/categories/%E5%8E%BB%E5%A1%91%E8%A1%8C%E5%8B%95/</link>
+    <link>http://localhost:1313/categories/%E5%8E%BB%E5%A1%91%E8%A1%8C%E5%8B%95/</link>
     <description>Recent content in 去塑行動 on 安普拉絲特φ青少年去塑聯盟</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://unplastify-youth.netlify.app/categories/%E5%8E%BB%E5%A1%91%E8%A1%8C%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E5%8E%BB%E5%A1%91%E8%A1%8C%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>點塑嘿皮購-環保袋集點計畫</title>
-      <link>https://unplastify-youth.netlify.app/blog/bag-points-happy/</link>
+      <link>http://localhost:1313/blog/bag-points-happy/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://unplastify-youth.netlify.app/blog/bag-points-happy/</guid>
-      <description>安普拉絲特Φ於去年 6/1～12/31 與水果店-蜜世界永和店合作，推出「點塑嘿皮購-環保袋集點計畫」，活動期間共計省下了高達✨3515個塑膠袋✨
-♻️活動介紹 延續先前安普拉絲特Φ與蜜世界永和店合作的多項企劃，本次推行的「點塑嘿皮購-環保袋集點計畫」，以折價為誘因，鼓勵消費者在選購水果時，自備環保袋，進而取代原先的塑膠袋
-活動透過集點卡的方式進行，
-顧客自備環保袋一次即可集一點
-5⃣️點可折抵1⃣️0⃣️元
-1⃣️5⃣️點可折抵2⃣️0⃣️元
-2⃣️0⃣️點可折抵3⃣️0⃣️元</description>
+      <guid>http://localhost:1313/blog/bag-points-happy/</guid>
+      <description>&lt;p&gt;安普拉絲特Φ於去年 6/1～12/31 與水果店-蜜世界永和店合作，推出「點塑嘿皮購-環保袋集點計畫」，活動期間共計省下了高達✨3515個塑膠袋✨&lt;/p&gt;&#xA;&lt;h3 id=&#34;活動介紹&#34;&gt;♻️活動介紹&lt;/h3&gt;&#xA;&lt;p&gt;延續先前安普拉絲特Φ與蜜世界永和店合作的多項企劃，本次推行的「點塑嘿皮購-環保袋集點計畫」，以折價為誘因，鼓勵消費者在選購水果時，自備環保袋，進而取代原先的塑膠袋&lt;/p&gt;&#xA;&lt;p&gt;活動透過集點卡的方式進行，&lt;br&gt;&#xA;顧客自備環保袋一次即可集一點&lt;br&gt;&#xA;5⃣️點可折抵1⃣️0⃣️元&lt;br&gt;&#xA;1⃣️5⃣️點可折抵2⃣️0⃣️元&lt;br&gt;&#xA;2⃣️0⃣️點可折抵3⃣️0⃣️元&lt;br&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>✨全新企劃上線✨ 塑本從源-塑膠製品回收計畫</title>
-      <link>https://unplastify-youth.netlify.app/blog/recycle/</link>
+      <link>http://localhost:1313/blog/recycle/</link>
       <pubDate>Sun, 09 Oct 2022 11:40:42 +0800</pubDate>
-      
-      <guid>https://unplastify-youth.netlify.app/blog/recycle/</guid>
-      <description>時常煩惱外送時拿到的塑膠袋、杯架要怎麼處理嗎？
-漲價的大熱讓你心痛嗎？
-安普拉絲特Φ給你機會報復性吃免費的大熱鍋燒麵/炒飯😍
-全新企劃✨「塑本從源-塑膠製品回收計畫」 正式上線✨
-⏰活動期程 即日起～112/3/1
-💁‍♀️活動介紹 安普拉絲特Φ與多家飲料店家、攤販合作，將在學校向師生搜集的塑膠袋、杯架清潔、消毒後，回收至店家，達到循環利用。
-💫你可以如何參與？ 帶著塑膠袋、杯架至善廣 尋找回收站（藍色紙盒，歡迎參考下方圖片） 將塑膠袋、杯架投入</description>
+      <guid>http://localhost:1313/blog/recycle/</guid>
+      <description>&lt;p&gt;時常煩惱外送時拿到的塑膠袋、杯架要怎麼處理嗎？&lt;br&gt;&#xA;漲價的大熱讓你心痛嗎？&lt;br&gt;&#xA;安普拉絲特Φ給你機會報復性吃免費的大熱鍋燒麵/炒飯😍&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;全新企劃✨「塑本從源-塑膠製品回收計畫」 正式上線✨&lt;/p&gt;&#xA;&lt;h3 id=&#34;活動期程&#34;&gt;⏰活動期程&lt;/h3&gt;&#xA;&lt;p&gt;即日起～112/3/1&lt;/p&gt;&#xA;&lt;h3 id=&#34;活動介紹&#34;&gt;💁‍♀️活動介紹&lt;/h3&gt;&#xA;&lt;p&gt;安普拉絲特Φ與多家飲料店家、攤販合作，將在學校向師生搜集的塑膠袋、杯架清潔、消毒後，回收至店家，達到循環利用。&lt;/p&gt;&#xA;&lt;h3 id=&#34;你可以如何參與&#34;&gt;💫你可以如何參與？&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;帶著塑膠袋、杯架至善廣&lt;/li&gt;&#xA;&lt;li&gt;尋找回收站（藍色紙盒，歡迎參考下方圖片）&lt;/li&gt;&#xA;&lt;li&gt;將塑膠袋、杯架投入&lt;br&gt;&#xA;三步驟輕鬆完成～&#xA;&#xA;&#xA;&#xA;  &lt;img src=&#34;http://localhost:1313/images/blog/recycle-inner.png&#34; width=&#34;100%&#34;&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;如何拿到大獎&#34;&gt;🎁如何拿到大獎？&lt;/h3&gt;&#xA;&lt;p&gt;在塑本從源活動期間，回收「三個塑膠袋或一個杯架」便可換取一張電子摸彩卷，記得掃描回收站的QRcode 填寫表單資料～&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>蜜世界環保袋集點活動 | 安普拉絲特φ</title>
-      <link>https://unplastify-youth.netlify.app/blog/bag-points/</link>
+      <link>http://localhost:1313/blog/bag-points/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://unplastify-youth.netlify.app/blog/bag-points/</guid>
-      <description>一、期程 6/1（三）- 8/31（三）
-二、合作店家 蜜世界永和店
-三、流程 自備環保袋一次即可集一點，集滿五點折十元，再集五點折十元，集到第十五點折二十元，集到第二十點折三十元。
-備註：兌換時點數只能集中於一張集點卡，不可拿多張同時兌換；若拿多張同時兌換則需重新集點。被使用過的集點卡可回收，之後可給第一次集點的消費者領取。
-我們是 Unplastify Youth 安普拉絲特φ 青少年去塑聯盟，一群致力於減塑的北一女學生</description>
+      <guid>http://localhost:1313/blog/bag-points/</guid>
+      <description>&lt;h3 id=&#34;一期程&#34;&gt;一、期程&lt;/h3&gt;&#xA;&lt;p&gt;6/1（三）- 8/31（三）&lt;/p&gt;&#xA;&lt;h3 id=&#34;二合作店家&#34;&gt;二、合作店家&lt;/h3&gt;&#xA;&lt;p&gt;蜜世界永和店&lt;/p&gt;&#xA;&lt;h3 id=&#34;三流程&#34;&gt;三、流程&lt;/h3&gt;&#xA;&lt;p&gt;自備環保袋一次即可集一點，集滿五點折十元，再集五點折十元，集到第十五點折二十元，集到第二十點折三十元。&lt;/p&gt;&#xA;&lt;p&gt;備註：兌換時點數只能集中於一張集點卡，不可拿多張同時兌換；若拿多張同時兌換則需重新集點。被使用過的集點卡可回收，之後可給第一次集點的消費者領取。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;我們是 Unplastify Youth 安普拉絲特φ 青少年去塑聯盟，一群致力於減塑的北一女學生&lt;br&gt;&#xA;Instagram 和 Facebook 上會定期有我們的活動紀錄與知識分享ᕕ(ᐛ)ᕗ&lt;br&gt;&#xA;歡迎分享、追蹤我們的帳號，和我們一起守護地球!!</description>
     </item>
-    
     <item>
       <title>不塑之渴-外送循環環保袋計畫</title>
-      <link>https://unplastify-youth.netlify.app/blog/delivery-without-plastic/</link>
+      <link>http://localhost:1313/blog/delivery-without-plastic/</link>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://unplastify-youth.netlify.app/blog/delivery-without-plastic/</guid>
-      <description>✨不塑之渴-外送循環環保袋計畫 第三階段 正式開跑✨
-💁‍♀️什麼是「不塑之渴-外送循環環保袋計劃」？ 安普拉絲特Φ與北一女中校園周遭飲料店家合作 外送過程中以環保袋承裝餐點，取代原先的塑膠袋 同學們只要依照下方簡單三點流程 動動手指便能省下無數的塑膠袋！
-⏰活動期程 9/5（一）～1/19（四）</description>
+      <guid>http://localhost:1313/blog/delivery-without-plastic/</guid>
+      <description>&lt;p&gt;✨不塑之渴-外送循環環保袋計畫 第三階段 正式開跑✨&lt;/p&gt;&#xA;&lt;h3 id=&#34;什麼是不塑之渴-外送循環環保袋計劃&#34;&gt;💁‍♀️什麼是「不塑之渴-外送循環環保袋計劃」？&lt;/h3&gt;&#xA;&lt;p&gt;安普拉絲特Φ與北一女中校園周遭飲料店家合作&#xA;外送過程中以環保袋承裝餐點，取代原先的塑膠袋&#xA;同學們只要依照下方簡單三點流程&#xA;動動手指便能省下無數的塑膠袋！&lt;/p&gt;&#xA;&lt;h3 id=&#34;活動期程&#34;&gt;⏰活動期程&lt;/h3&gt;&#xA;&lt;p&gt;9/5（一）～1/19（四）&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>不塑之渴新增店家</title>
-      <link>https://unplastify-youth.netlify.app/blog/new-shops/</link>
+      <link>http://localhost:1313/blog/new-shops/</link>
       <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://unplastify-youth.netlify.app/blog/new-shops/</guid>
-      <description>⏰活動期程 3/7(一)~5/15(日)
-合作店家共十一家 ｜foodpanda &amp;amp; Uber eats都可以｜ 🌟茶鬍 中正漢口店（新增店家）
-📍白巷子 台北雙連店</description>
+      <guid>http://localhost:1313/blog/new-shops/</guid>
+      <description>&lt;h3 id=&#34;活動期程&#34;&gt;⏰活動期程&lt;/h3&gt;&#xA;&lt;p&gt;3/7(一)~5/15(日)&lt;/p&gt;&#xA;&lt;h3 id=&#34;合作店家共十一家&#34;&gt;合作店家共十一家&lt;/h3&gt;&#xA;&lt;h4 id=&#34;foodpanda--uber-eats都可以&#34;&gt;｜foodpanda &amp;amp; Uber eats都可以｜&lt;/h4&gt;&#xA;&lt;p&gt;🌟茶鬍 中正漢口店（新增店家）&lt;br&gt;&#xA;📍白巷子 台北雙連店&lt;br&gt;&#xA;📍萬波 台北衡陽店&lt;br&gt;&#xA;📍舒油頭 西門店&lt;br&gt;&#xA;📍鶴茶樓 台北寧波西店&lt;br&gt;&#xA;📍龜記 台北西門店&#xA;（也歡迎上官網訂購或加入官方Line帳號@418eaavz ）&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>水果店特別活動—《926快閃活動—速戰塑絕》</title>
-      <link>https://unplastify-youth.netlify.app/blog/fruit-bag/</link>
+      <link>http://localhost:1313/blog/fruit-bag/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://unplastify-youth.netlify.app/blog/fruit-bag/</guid>
-      <description>♻️減塑議題刻不容緩，你也跟上了嗎? 9月26日，安普在台北三家水果店舉辦了「速戰塑絕」，號召高中生志工投入減塑行列，三個小時共省下了 750（保守預估）個大塑膠袋的使用！🎉 有別於其他減塑活動，「速戰塑絕」講求透過簡單、不費力的方式達成循環，即使空手去水果店，只要使用店內環保袋，就能減少塑膠量，還能獲得文旦與摸彩券🤩 希望透過這次活動，提高青少年行動力，並進一步改變民眾的消費觀念，也希望追蹤安普的大家，可以養成自備提袋/多袋集中成一袋的購物習慣哦❤️
-特別感謝 各位志工朋友
-蜜世界鮮果廣場
-翡翠綠水果專賣店
-世界城水果店</description>
+      <guid>http://localhost:1313/blog/fruit-bag/</guid>
+      <description>&lt;h3 id=&#34;減塑議題刻不容緩你也跟上了嗎&#34;&gt;♻️減塑議題刻不容緩，你也跟上了嗎?&lt;/h3&gt;&#xA;&lt;p&gt;9月26日，安普在台北三家水果店舉辦了「速戰塑絕」，號召高中生志工投入減塑行列，三個小時共省下了 750（保守預估）個大塑膠袋的使用！🎉&#xA;有別於其他減塑活動，「速戰塑絕」講求透過簡單、不費力的方式達成循環，即使空手去水果店，只要使用店內環保袋，就能減少塑膠量，還能獲得文旦與摸彩券🤩&#xA;希望透過這次活動，提高青少年行動力，並進一步改變民眾的消費觀念，也希望追蹤安普的大家，可以養成自備提袋/多袋集中成一袋的購物習慣哦❤️&lt;/p&gt;&#xA;&lt;h3 id=&#34;特別感謝&#34;&gt;特別感謝&lt;/h3&gt;&#xA;&lt;p&gt;各位志工朋友&lt;br&gt;&#xA;蜜世界鮮果廣場&lt;br&gt;&#xA;翡翠綠水果專賣店&lt;br&gt;&#xA;世界城水果店&lt;br&gt;&#xA;使用環保袋的每位消費者&lt;br&gt;&#xA;&lt;br&gt;&#xA;#環保 #安普拉絲特φ #塑膠 #愛地球 #減塑 #Unplastify #UnplastifyYouth #UP #安普 #安普拉絲特 #青少年去塑聯盟&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

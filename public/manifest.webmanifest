@@ -1,7 +1,7 @@
 {
   "name": "安普拉絲特φ青少年去塑聯盟",
   "short_name": "安普拉絲特φ青少年去塑聯盟",
-  "lang": "en-us",
+  "lang": "en",
   "theme_color": "#FE6019",
   
 
@@ -16,32 +16,32 @@
   
   "icons": [
     {
-      "src": "/images/favicon_hu61b8554553fc94a4d0c3614675d8d702_9156_48x0_resize_box.png",
+      "src": "/images/favicon_hu_994ef246a0434721.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_hu61b8554553fc94a4d0c3614675d8d702_9156_72x0_resize_box.png",
+      "src": "/images/favicon_hu_f74d0657c24179d9.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_hu61b8554553fc94a4d0c3614675d8d702_9156_96x0_resize_box.png",
+      "src": "/images/favicon_hu_5f651da4cf9b7375.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_hu61b8554553fc94a4d0c3614675d8d702_9156_144x0_resize_box.png",
+      "src": "/images/favicon_hu_283d59dea403cf9a.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_hu61b8554553fc94a4d0c3614675d8d702_9156_192x0_resize_box.png",
+      "src": "/images/favicon_hu_4210d53810387d53.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_hu61b8554553fc94a4d0c3614675d8d702_9156_512x0_resize_box.png",
+      "src": "/images/favicon_hu_ef840165630614ae.png",
       "sizes": "512x512",
       "type": "image/png"
     }

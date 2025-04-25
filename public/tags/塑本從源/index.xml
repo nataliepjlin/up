@@ -2,24 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>塑本從源 on 安普拉絲特φ青少年去塑聯盟</title>
-    <link>https://unplastify-youth.netlify.app/tags/%E5%A1%91%E6%9C%AC%E5%BE%9E%E6%BA%90/</link>
+    <link>http://localhost:1313/tags/%E5%A1%91%E6%9C%AC%E5%BE%9E%E6%BA%90/</link>
     <description>Recent content in 塑本從源 on 安普拉絲特φ青少年去塑聯盟</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 09 Oct 2022 11:40:42 +0800</lastBuildDate><atom:link href="https://unplastify-youth.netlify.app/tags/%E5%A1%91%E6%9C%AC%E5%BE%9E%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Oct 2022 11:40:42 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%A1%91%E6%9C%AC%E5%BE%9E%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>✨全新企劃上線✨ 塑本從源-塑膠製品回收計畫</title>
-      <link>https://unplastify-youth.netlify.app/blog/recycle/</link>
+      <link>http://localhost:1313/blog/recycle/</link>
       <pubDate>Sun, 09 Oct 2022 11:40:42 +0800</pubDate>
-      
-      <guid>https://unplastify-youth.netlify.app/blog/recycle/</guid>
-      <description>時常煩惱外送時拿到的塑膠袋、杯架要怎麼處理嗎？
-漲價的大熱讓你心痛嗎？
-安普拉絲特Φ給你機會報復性吃免費的大熱鍋燒麵/炒飯😍
-全新企劃✨「塑本從源-塑膠製品回收計畫」 正式上線✨
-⏰活動期程 即日起～112/3/1
-💁‍♀️活動介紹 安普拉絲特Φ與多家飲料店家、攤販合作，將在學校向師生搜集的塑膠袋、杯架清潔、消毒後，回收至店家，達到循環利用。
-💫你可以如何參與？ 帶著塑膠袋、杯架至善廣 尋找回收站（藍色紙盒，歡迎參考下方圖片） 將塑膠袋、杯架投入</description>
+      <guid>http://localhost:1313/blog/recycle/</guid>
+      <description>&lt;p&gt;時常煩惱外送時拿到的塑膠袋、杯架要怎麼處理嗎？&lt;br&gt;&#xA;漲價的大熱讓你心痛嗎？&lt;br&gt;&#xA;安普拉絲特Φ給你機會報復性吃免費的大熱鍋燒麵/炒飯😍&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;全新企劃✨「塑本從源-塑膠製品回收計畫」 正式上線✨&lt;/p&gt;&#xA;&lt;h3 id=&#34;活動期程&#34;&gt;⏰活動期程&lt;/h3&gt;&#xA;&lt;p&gt;即日起～112/3/1&lt;/p&gt;&#xA;&lt;h3 id=&#34;活動介紹&#34;&gt;💁‍♀️活動介紹&lt;/h3&gt;&#xA;&lt;p&gt;安普拉絲特Φ與多家飲料店家、攤販合作，將在學校向師生搜集的塑膠袋、杯架清潔、消毒後，回收至店家，達到循環利用。&lt;/p&gt;&#xA;&lt;h3 id=&#34;你可以如何參與&#34;&gt;💫你可以如何參與？&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;帶著塑膠袋、杯架至善廣&lt;/li&gt;&#xA;&lt;li&gt;尋找回收站（藍色紙盒，歡迎參考下方圖片）&lt;/li&gt;&#xA;&lt;li&gt;將塑膠袋、杯架投入&lt;br&gt;&#xA;三步驟輕鬆完成～&#xA;&#xA;&#xA;&#xA;  &lt;img src=&#34;http://localhost:1313/images/blog/recycle-inner.png&#34; width=&#34;100%&#34;&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;如何拿到大獎&#34;&gt;🎁如何拿到大獎？&lt;/h3&gt;&#xA;&lt;p&gt;在塑本從源活動期間，回收「三個塑膠袋或一個杯架」便可換取一張電子摸彩卷，記得掃描回收站的QRcode 填寫表單資料～&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
